@@ -2,10 +2,10 @@ s = "A B C D E F G\n"
 arr = [
     list("O O O O O O O"),
     list("O O O O O O O"),
-    list("O O O R O O O"),
-    list("O O R Y O O O"),
-    list("O R Y R O O O"),
-    list("R Y Y Y O O O")
+    list("O O O O O O O"),
+    list("O O O O O O O"),
+    list("O O O O O O O"),
+    list("O O O O O O O")
 ]
 a = [5,5,5,5,5,5,5]
 t = 42
