@@ -1,3 +1,9 @@
+import sys
+from PyQt6.QtGui import QPixmap
+from PySide6.QtWidgets import QApplication, QWidget ,QApplication, QGraphicsScene, QGraphicsView, QGraphicsPixmapItem, QMainWindow
+from ui_form import Ui_Widget
+
+
 s = "A B C D E F G\n"
 arr = [
     list("O O O O O O O"),
