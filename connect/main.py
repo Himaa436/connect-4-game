@@ -128,7 +128,7 @@ class Game:
         score = 0
         for i in range(4):
             score += self.diagonal_check(i, 0 ,color)
-        for j in range(1,4): # todoooooooooooo
+        for j in range(1,4):
             score += self.diagonal_check(0, j ,color)
         for i in range(0,3):
             score += self.x_diagonal_check(i, 6 ,color)
